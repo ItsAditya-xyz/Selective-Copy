@@ -6,5 +6,5 @@ Imagine a condition where you have downloaded lot of files from the Internet(tha
 
 The application is now only for windows and it is standalone(that means you don't need to install any dependencies etc.) Just clone/download the project and run the SelectiveCopy.exe and there you go. The application comes with User Friendly GUI. Beside some given extensions in the application you can also write you own list of extension separated by comma(,).
 
-#How to start?
+<h> How to start </h><br>
 Just clone the repo and run the SelectiveCopy.exe
