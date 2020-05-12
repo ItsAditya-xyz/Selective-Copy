@@ -8,3 +8,4 @@ The application is now only for windows and it is standalone(that means you don'
 
 ## How to start
 Just clone the repo and run the `SelectiveCopy.exe`
+If you get any kind of fatal error then make sure all the files of the repo are in same directory
